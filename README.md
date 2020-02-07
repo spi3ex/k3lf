@@ -1,3 +1,3 @@
 # k3lf
-OPEN SOURCE ARDUINO
+OPEN PROJECT FOR AIR QUALITY
 ===================
